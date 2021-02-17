@@ -31,7 +31,6 @@ A web portal which helps Passengers to book tickets online from anywhere.The nam
 ![](screenshots/pic7.png)
 ### Customer Care 
 ![](screenshots/pic6.png)
-### About Me
-![](screenshots/pic8.png)
+
  
 
