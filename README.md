@@ -3,7 +3,7 @@ A web portal which helps Passengers to book tickets online from anywhere.The nam
 
 
 ## To run the project follow these simple steps:  
-### Step 1: Clone or Donwload the rar file from the repository
+### Step 1: Clone or Download the rar file from the repository
 ### Step 2: Copy the files in to htdocs for xampp server and in www for wamp server
 ### Step 3: Create 5 database files in the phpmyadmin namely admin.sql, booking.sql, interlist.sql, seats_availability.sql,train_list.sql and users.sql .
 ### Step 4: After creating the files you need to import the databases from the database folder.
